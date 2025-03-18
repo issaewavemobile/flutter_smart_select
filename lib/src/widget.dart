@@ -137,7 +137,7 @@ class SmartSelect<T> extends StatefulWidget {
 
   /// Default constructor
   SmartSelect({
-    Key key,
+    Key? key,
     this.title,
     this.placeholder,
     this.isMultiChoice,
